@@ -14,7 +14,10 @@ The goal of this version is to fix the HDMI audio issue present in Android 12 on
  #### How to install GApps?
 - 1: Root using Magisk
 - 2: Install this module in Magisk [Here](https://sourceforge.net/projects/magiskgapps/files/android-12L-ALPHA/17.10.2022/MagiskGApps-a.12L.BASIC.10.16.2022.zip)
-- 3: Reboot and Done
+- 3: Reboot and done
 
 #### How to disable taskbar?
-- For now, I still don't have an good answer, but in the meantime, I would recommend only activating 'Gesture Mode' in the settings
+- For now, I still don't have an good answer, but in the meantime, I would recommend only activating 'Gesture Mode' in the settings.
+
+#### Are you going to do this Fix for Orange PI 5 base?
+- Probably not, I don't have the OPI5 to test, and there is also an older version that doesn't have this problem.
