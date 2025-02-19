@@ -8,7 +8,7 @@ The goal of this version is to fix the HDMI audio issue present in Android 12 on
 - Dark Mode by default.
 - Some apps were added in performance mode (better stability).
  ## FAQ:
- #### how to install?
+ #### How to install?
  - It's basically the same thing as the original versions,
  - follow these tutorials if you don't know: [SDCARD](https://www.youtube.com/watch?v=gxkNApGxfo4), [NVME](https://www.youtube.com/watch?v=Bet_plMIS30)
  #### How to root?
