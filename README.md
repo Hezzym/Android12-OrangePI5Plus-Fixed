@@ -27,7 +27,7 @@ The goal of this version is to fix the HDMI audio issue present in Android 12 on
 - For now, I still don't have an good answer, but in the meantime, I would recommend only activating 'Gesture Mode' in the settings.
 
 #### Where is the source code?
-- The source code is more than 80GB, for this reason I will not post it, but you can find the original Android 12 code for the Orange PI 5 directly from the official website.
+- The source code is more than 80GB, for this reason I will not post it, but you can find the original Android 12 code for the Orange PI 5 directly from the official website, But as soon as possible I will publish all the changes that have been made, so anyone can download the source code from the official website and apply it.
 
 #### Are you going to do this Fix for Orange PI 5 base?
 - Probably not, I don't have the OPI5 to test, and there is also an older version that doesn't have this problem.
