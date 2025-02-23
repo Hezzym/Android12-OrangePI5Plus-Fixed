@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<performance-package>
+    <app package="com.antutu.ABenchMark" mode="1"/>
+    <app package="com.antutu.benchmark.full" mode="1"/>
+    <app package="com.android.server.cts.device.graphicsstats" mode="1"/>
+
+    <app package="xyz.aethersx2.android" mode="1"/>
+    <app package="org.ppsspp.ppsspp" mode="1"/>
+    <app package="com.github.stenzek.duckstation" mode="1"/>
+    <app package="com.retroarch" mode="1"/>
+    <app package="com.winlator" mode="1"/>
+    <app package="org.yuzu.yuzu_emu" mode="1"/>
+    <app package="dev.suyu.suyu_emu" mode="1"/>
+    <app package="org.dolphinemu.dolphinemu" mode="1"/>
+    <app package="org.sudachi.sudachi_emu" mode="1"/>
+    <app package="org.citra.emu" mode="1"/>
+    <app package="org.citron.citron_emu" mode="1"/>
+    <app package="info.cemu.Cemu" mode="1"/>
+    <app package="com.flycast.emulator" mode="1"/>
+    <app package="org.vita3k.emulator" mode="1"/>
+    <app package="io.github.mandarine3ds.mandarine" mode="1"/>
+    <app package="aenu.aps3e" mode="1"/>
+
+    <app package="com.miHoYo.GenshinImpact" mode="1"/>
+    <app package="com.activision.callofduty.shooter" mode="1"/>
+    <app package="com.epicgames.fortnite" mode="1"/>
+    <app package="com.activision.callofduty.warzone" mode="1"/>
+    <app package="com.proximabeta.mf.liteuamo" mode="1"/>
+    <app package="com.netease.newspike" mode="1"/>
+    <app package="com.miraclegames.farlight84" mode="1"/>
+    <app package="com.xd.t3.global" mode="1"/>
+    <app package="com.tencent.ig" mode="1"/>
+    <app package="com.HoYoverse.Nap" mode="1"/>
+    <app package="com.miHoYo.bh3global" mode="1"/>
+    <app package="com.gameloft.android.ANMP.GloftA8HM" mode="1"/>
+    <app package="com.gameloft.android.ANMP.GloftA9HM" mode="1"/>
+    <app package="com.riotgames.league.wildrift" mode="1"/>
+    <app package="com.FYQD.BMI" mode="1"/>
+    <app package="com.wb.goog.mkx" mode="1"/>
+    <app package="com.mobile.legends" mode="1"/>
+    <app package="com.HoYoverse.hkrpgoversea" mode="1"/>
+    <app package="com.miHoYo.bh3global" mode="1"/>
+    <app package="com.HoYoverse.Nap" mode="1"/>
+    <app package="com.infoldgames.infinitynikkien" mode="1"/>
+    <app package="com.kurogame.wutheringwaves.global" mode="1"/>
+    <app package="com.netmarble.sololv" mode="1"/>
+    <app package="com.gryphline.exastris.gp" mode="1"/>
+    <app package="com.allstarunion.myths" mode="1"/>
+    <app package="com.neowizgames.game.browndust2" mode="1"/>
+</performance-package>
