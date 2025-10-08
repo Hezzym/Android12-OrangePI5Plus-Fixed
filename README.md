@@ -1,7 +1,7 @@
 # Fixed Audio/Video in Android 12 for Orange PI 5 Plus
-The goal of this version is to fix the HDMI audio issue present in Android 12 on the Orange PI 5 Plus, which affected various functionalities such as video playback and emulators like Aethersx2. Additionally, I will also be adding some extra features.
-## About this README:
-- **My English is not very good, so please forgive me for any mistakes.**
+- The goal of this version is to fix the HDMI audio issue present in Android 12 on the Orange PI 5 Plus, which affected various functionalities such as video playback and emulators like Aethersx2. Additionally, I will also be adding some extra features.
+## Updates:
+- **If you want a simpler and more efficient solution, use this magisk module made by** [Matheus290](https://github.com/Matheus290/Android-OP5-Performance-Fixer)
 ## Main Fix:
 - Bad performance in Aethersx2.
 - Audio and Video with bottleneck.
